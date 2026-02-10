@@ -3,7 +3,7 @@
 % this unified function are meant for SDES encryption and decryption
 % this function could be used as following:
 % I.  ciphertext = SDEScipher('000011110000', '1010101010', [11, 1])
-% II. plaintext = SDEScipher('01010100','1010101010', [11, 0])
+% II. plaintext = SDEScipher('101100111001','1010101010', [11, 0])
 % Input parameters are three parameters: 
 % I.  twelve bits of text
 % II. ten bits of secret key
